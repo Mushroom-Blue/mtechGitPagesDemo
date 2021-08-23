@@ -20,7 +20,7 @@ div {
     text-align: center;
 }
 div:hover{
-    background-color: #303030;
+    background-color: orange;
 }
 img {
     width: 450px;
